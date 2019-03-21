@@ -1,0 +1,103 @@
+.glv_authordisplay .entry
+{
+	width: 28%;
+	height: 400px;
+	float: left;
+	padding: 1%;
+	margin: 1%;
+	background-color: white;
+	border-radius: 4px;
+	text-align: center;
+}
+
+.glv_authordisplay .entry .portrait
+{
+	
+}
+.glv_authordisplay .entry .portrait img
+{
+	border-radius: 100px;
+	width: 90%;
+	height: auto;
+	margin-bottom: 10px;
+}
+.glv_authordisplay .entry .name
+{
+	font-weighT: bold;
+	font-size: 1.5em;
+	color: #d43f4e;
+}
+.glv_authordisplay .entry .roles
+{
+	font-style: italic;	
+}
+
+.glv_authordisplay .entry .bio
+{
+	padding-top: 10px;
+}
+
+.glv_authordisplay .entry .social_links
+{
+	padding-top: 10px;
+}
+
+.glv_authordisplay .entry .social_links > .link
+{
+	display: inline-block;
+	padding: 0 10px;
+	color: #d43f4e;
+}
+.glv_authordisplay .entry .social_links a
+{
+	color: #d43f4e;
+}
+
+/*
+OLD:
+.glv_authordisplay .entry
+{
+	padding: 10px;
+	margin: 10px 0;
+	background-color: #EEE;
+	border-radius: 4px;
+}
+
+.glv_authordisplay .entry .portrait
+{
+	float: left;
+	
+
+}
+.glv_authordisplay .entry .portrait img
+{
+	padding: 10px;
+	max-width: 100px;
+	max-height: 100px;
+}
+.glv_authordisplay .entry .name
+{
+	font-weighT: bold;
+	font-size: 1.5em;
+}
+.glv_authordisplay .entry .roles
+{
+	font-style: italic;	
+}
+
+.glv_authordisplay .entry .bio
+{
+	padding-top: 10px;
+}
+
+.glv_authordisplay .entry .social_links
+{
+	padding-top: 10px;
+}
+
+.glv_authordisplay .entry .social_links > .link
+{
+	display: inline-block;
+	padding: 0 10px;
+}
+*/
